@@ -1,0 +1,8 @@
+http://books.toscrape.com/catalogue/category/books/classics_6/index.html
+http://books.toscrape.com/catalogue/the-secret-garden_413/index.html
+http://books.toscrape.com/catalogue/the-story-of-hong-gildong_84/index.html
+http://books.toscrape.com/catalogue/emma_17/index.html
+http://books.toscrape.com/catalogue/category/books/thriller_37/index.html
+http://books.toscrape.com/catalogue/the-elephant-tree_968/index.html
+http://books.toscrape.com/catalogue/the-bone-hunters-lexy-vaughan-steven-macaulay-2_343/index.html
+http://books.toscrape.com/catalogue/the-travelers_285/index.html
